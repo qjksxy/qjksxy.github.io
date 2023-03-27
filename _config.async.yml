@@ -1,0 +1,31 @@
+theme: 
+  switch: true 
+  default: auto # style-light style-dark
+
+language: zh-Hans
+# 语言
+zh-Hans:
+    site:
+        title: 本站信息
+user:
+    name: Apin
+    email: qjksxy@163.com
+    avatar: /img/avatar.jpg
+    describe: Apin 的个人博客，日常随笔或者学习笔记
+
+toc:
+    enable: true
+    list_number: true
+    max_depth: 3
+    min_depth: 1
+
+post_pagination:
+    enable: true
+    type: large # large || small
+
+
+error_img:
+    flink: /img/friend_404.gif
+    post_page: /img/404.jpg
+
+
